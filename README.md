@@ -4,7 +4,7 @@ Hi 👋 My name is Khanday Ovais
 Software Developer
 ------------------
 
-Study of the science of computers is that which I do
+Study of the science of computers is that which I do ❤️
 
 * 🌍  I'm based in Anantnag, Jammu and Kashmir
 * ✉️  You can contact me at [ovaiskhanday927@gmail.com](mailto:ovaiskhanday927@gmail.com)
