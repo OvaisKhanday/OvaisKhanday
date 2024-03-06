@@ -5,7 +5,7 @@ Software Developer
 ------------------
 
 Study of the science of computers is that which I do and ❤️
-
+* 💻  MERN Stack Dev | Flutter Dev
 * 🌍  I'm based in Anantnag, Jammu and Kashmir
 * ✉️  You can contact me at [ovaiskhanday927@gmail.com](mailto:ovaiskhanday927@gmail.com)
 * 🤝  I'm open to collaborating on anything interesting and especially in modern medical field requiring tech
