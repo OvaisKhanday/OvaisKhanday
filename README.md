@@ -1,4 +1,4 @@
-Hi 👋 My name is Khanday Ovais
+Hi 👋 My name is Ovais Ahmad Khanday
 ==============================
 
 Software Developer
